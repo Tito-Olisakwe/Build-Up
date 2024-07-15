@@ -1790,7 +1790,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -79.2, y: 70.5}
+  m_AnchoredPosition: {x: -149, y: 70.5}
   m_SizeDelta: {x: 542.8583, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &727139303
@@ -1813,7 +1813,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Castle of Secrets
+  m_text: The Forgotten Kingdom
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -1840,8 +1840,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 90
-  m_fontSizeBase: 90
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1876,7 +1876,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -89.95065, y: 0, z: -281.7954, w: 0}
+  m_margin: {x: -89.95065, y: 0, z: -403.0108, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2768,19 +2768,19 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Game Design and Development: Tito-Paris Olisakwe
 
-    
 
-    Story and
-    Script: Tito-Paris Olisakwe
 
-    
-
-    Art and Graphics: Isiaq Gbadamosi and
+    Story and Script:
     Tito-Paris Olisakwe
 
-    
 
-    Special Thanks: God'
+
+    Art and Graphics: Isiaq Gbadamosi and Tito-Paris Olisakwe
+
+
+
+    Special
+    Thanks: God'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4929,7 +4929,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -222.9, y: -45.5}
+  m_AnchoredPosition: {x: -162, y: -61}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1775089518
@@ -4952,7 +4952,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Journey through the abandoned castle to rescue your friend
+  m_text: 'Unveil the secrets hidden within the castle walls.
+
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5015,7 +5018,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -482.34216, w: 0}
+  m_margin: {x: 0, y: 0, z: -372.6201, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
