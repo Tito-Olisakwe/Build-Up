@@ -13,7 +13,7 @@ public class MenuController : MonoBehaviour
         #if UNITY_EDITOR
             UnityEditor.EditorApplication.isPlaying = false;
         #else
-            Application.Quit();
+            Application.OpenURL("https://side-hustler.itch.io/the-forgotten-kingdom");
         #endif
     }
 }
